@@ -1,37 +1,44 @@
-# AutoText
+AutoText ✨
+AI-powered content assistant for modern creators and marketers.
 
-A modern, AI-powered landing page for social media marketing automation.
+🔗 Live Preview
+https://auto-text-sandy.vercel.app/
 
-## Features
-- Beautiful, responsive landing page
-- Hero, Features, AI/ML, Integrations, Testimonials, and Footer sections
-- Modern 2D icons and clean design
-- Built with React and Vite
+🧠 Inspiration
+Inspired by clean UI/UX from:
 
-## Tech Stack
-- React
-- Vite
-- CSS (custom, no frameworks)
+Jasper.ai
 
-## Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/IamManishVaishnav/AutoText.git
-   cd AutoText
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+Typedesk.com
 
-## Customization
-- Replace images in `src/assets/` as needed (logo, dashboard, avatars, etc).
-- Update content and styles in the React components.
+🎨 Figma Design
+View Figma File
 
----
+⚙️ Tech Stack
+React + Vite
 
-*This README will be updated with more details soon!*
+TailwindCSS
+
+Framer Motion
+
+AI APIs (OpenAI)
+
+💡 Features
+AI Text & Image Generation
+
+Post Scheduling
+
+Social Media Integration
+
+Analytics Dashboard
+
+Smart AI Agent Tools
+
+📦 Setup
+bash
+Copy
+Edit
+npm install  
+npm run dev  
+📬 Contact
+Created by @IamManishVaishnav — contributions welcome!
