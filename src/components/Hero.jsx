@@ -27,12 +27,15 @@ const Hero = () => {
             <button className="cta-button secondary">Take a Tour<ArrowIcon /></button>
           </div>
         </div>
-        <div className="hero-image">
-          <img src={dashboardImg} alt="AutoText Dashboard" />
+
+        <div className="hero-image-wrapper">
+          <div className="glass-container">
+            <img src={dashboardImg} alt="AutoText Dashboard" className="dashboard-image" />
+          </div>
         </div>
       </div>
     </section>
   )
 }
 
-export default Hero 
+export default Hero
